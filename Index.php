@@ -4,7 +4,7 @@
 	<title>Blood donors site</title>
   <link rel="icon" type="image/png" href="images/favicon.ico"/>
 	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="Services.css">
+	<link rel="stylesheet" type="text/css" href="home2.css">
 	<link rel="stylesheet" type="text/css" href="Auto slide.css">
   <link rel="stylesheet" type="text/css" href="home1.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -73,7 +73,7 @@ font-family:calibri; color:"><img src="images/logo.jpg" width="82" height="80"> 
 	<li><a class="active" href="#">Home</a></li>
 	<li><a href="#">Veryfy Donor</a></li>
 	<li><a href="#">Contacts</a></li>
-	<li style="float:right;"><a href="Admin.php">Staff Login</a></li>
+	<li style="float:right;"><a href="Admin login.php">Staff Login</a></li>
 </ul>
   </div>
  
